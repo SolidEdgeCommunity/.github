@@ -40,7 +40,7 @@ At Solid Edge University 2014, [Jason Newell](https://community.sw.siemens.com/s
 > My thoughts on those concerns? Ok, don’t use them. Nobody is making you. The code is open sourced! Go look for yourself and see how the author implemented the functionality you need. You are free to take what you need but remember, someone spent time figuring it out.
 
 ### 2015 - Current
-It us up to debate on how successful the initiative was. Certainly, people have benefitted but the reality is very few contributed back or volunteered to help.
+It us up to debate on how successful the initiative was. Certainly, people have benefitted but the reality is very few contributed back or volunteered to help. Most of the content is archived but remains available in the hope that someone find it useful in the future.
 
 <!--
 
